@@ -34,6 +34,8 @@ i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </p>
 
 ---
