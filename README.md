@@ -15,6 +15,9 @@ i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT
 
 <p align="left">
 
+<img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
