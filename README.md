@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
-<h3 align="center"> B.TECH CSE Student | Web Developer | Frontend Developer|</h3>
+<h3 align="center"> B.TECH CSE Student | Frontend Developer |</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 Currently Pursuing Bachelor of Technology B.Tech (CSE) from K.R. Mangalam University
 
-i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT
+i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS 
 
 ---
 
