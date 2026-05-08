@@ -6,7 +6,8 @@
 
 # 👋 About Me:
 
-Currently Pursuing Bachelor of Technology B.Tech(CSE) from K.R. Mangalam University
+Currently Pursuing Bachelor of Technology B.Tech (CSE) from K.R. Mangalam University
+
 i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT
 
 ---
