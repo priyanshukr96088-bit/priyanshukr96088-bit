@@ -8,7 +8,7 @@
 
 Currently Pursuing Bachelor of Technology B.Tech (CSE) from K.R. Mangalam University
 
-i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS 
+i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS, EXPRESS.JS
 
 ---
 
@@ -46,6 +46,10 @@ i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 </p>
 
