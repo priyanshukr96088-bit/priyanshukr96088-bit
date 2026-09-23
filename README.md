@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
-<h3 align="center"> B.TECH CSE Student | Frontend and Backend Developer | </h3>
+<h3 align="center"> B.TECH CSE Student | Full Stack Developer | </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshukr96088-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 ---
 
 # 👋 About Me:
-- 🎓 B.Tech CSE student
-- 💻 Learning Full Stack Development
+- 🎓 B.Tech CSE Student
+- 🎨 Frontend Development completed
+- ⚙️ Currently working on Backend Development
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building real-world projects
-- 🌱 Currently learning Backend Development
-- 🎯 Interested in Web Development, AI & Startups
+- 💡 Interested in Web Development, AI & Startups
 
 ---
 
