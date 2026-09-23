@@ -8,7 +8,7 @@
 
 Currently Pursuing Bachelor of Technology B.Tech (CSE) from K.R. Mangalam University
 
-i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS 
+i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS 
 
 ---
 
