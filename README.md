@@ -15,6 +15,22 @@
 - 💡 Interested in Web Development, AI & Startups
 
 ---
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
