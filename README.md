@@ -7,9 +7,6 @@
 ---
 
 # 👋 About Me:
-
-## 👨‍💻 About Me
-
 - 🎓 B.Tech CSE student
 - 💻 Learning Full Stack Development
 - 🧠 Practicing Data Structures & Algorithms
