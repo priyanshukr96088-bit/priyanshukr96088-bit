@@ -80,13 +80,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshukr96088-bit&show_icons=true&theme=tokyonight" />
 </p>
----
-<h2>🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukr96088-bit&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukr96088-bit&theme=tokyonight" />
-</p>
