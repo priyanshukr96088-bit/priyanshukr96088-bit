@@ -8,9 +8,14 @@
 
 # 👋 About Me:
 
-Currently Pursuing Bachelor of Technology B.Tech (CSE) from K.R. Mangalam University
+## 👨‍💻 About Me
 
-i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS, EXPRESS.JS
+- 🎓 B.Tech CSE student
+- 💻 Learning Full Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building real-world projects
+- 🌱 Currently learning Backend Development
+- 🎯 Interested in Web Development, AI & Startups
 
 ---
 
