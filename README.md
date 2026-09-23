@@ -2,9 +2,9 @@
 
 <h3 align="center"> B.TECH CSE Student | Frontend and Backend Developer | </h3>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshukr96088-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 ---
 
 # 👋 About Me:
