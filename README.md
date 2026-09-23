@@ -51,6 +51,8 @@ i learned HTML, CSS, JAVASCRIPT, PYTHON, DSA, REACT, TAILWIND CSS, NODE.JS, EXPR
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 </p>
 
 ---
