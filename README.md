@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
-<h3 align="center"> B.TECH CSE Student | Frontend Developer | | Backend Development| </h3>
+<h3 align="center"> B.TECH CSE Student | Frontend Developer | | Backend Development | </h3>
 
 ---
 
