@@ -76,6 +76,33 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### 🔹 CareerSync
+**Resume & Skill Gap Alignment Platform for Academic and Career Goals**
+
+A web platform for resume building, internships and skill-gap analysis.
+
+**Tech Stack:** React • Vite • Tailwind CSS • Firebase
+
+---
+
+### 🔹 Smart Attendance System
+**Face Recognition + GPS based Attendance System**
+
+A smart attendance system designed to verify students using facial recognition and location verification.
+
+**Tech Stack:** Python • OpenCV • Flask • JavaScript
+
+---
+
+### 🔹 Weather Tracker
+**Real-Time Weather Application**
+
+A weather application that fetches real-time weather information using an API.
+
+**Tech Stack:** HTML • CSS • JavaScript • OpenWeather API
+---
 
 # 📊 GitHub Stats:
 <p align="center">
