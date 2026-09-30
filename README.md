@@ -8,7 +8,7 @@
 
 # 👋 About Me:
 - 🎓 B.Tech CSE Student
-- 🎨 Frontend Development completed
+- 🎨 Frontend Development completed 
 - ⚙️ Currently working on Backend Development
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building real-world projects
